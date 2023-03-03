@@ -10,12 +10,12 @@ def calc_factorial(num):
         res *= number
     return res
 
-def useless_function(number):
+def useless_function(acht):
     letters = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
-    number *= 1532
-    number //= 81
-    number += 38
-    return letters[number%letters.__len__()]
+    acht *= 1532
+    acht //= 81
+    acht += 38
+    return letters[acht%letters.__len__()]
 
 
 if __name__ == "__main__":
