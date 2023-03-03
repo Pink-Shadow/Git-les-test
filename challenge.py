@@ -1,7 +1,7 @@
 #This file is here to let you practice with merge errors.
 
 def print_in_between(num, range):
-    print(f"nu bij vermenigvuldiging: {num} *= {range}")
+    print(f"nu bij: {num} *= {range}")
 
 def calc_factorial(num):
     res = 1
