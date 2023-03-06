@@ -8,5 +8,5 @@ def print_banner(text):
 
 
 if __name__ == "__main__":
-    print_banner("<voer hier uw banner text in>")
+    print_banner("HALLO DIT IS EEN BANNER TEXT")
 
